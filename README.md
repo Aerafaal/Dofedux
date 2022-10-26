@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- [.NET7][dotnet]
+- [.NET6][dotnet]
 
 ## Contributing
 
@@ -16,6 +16,6 @@ For more, check out the [Contributing Guide][contributing].
 
 [GPL-3.0][license] © 2022 Aerafaal
 
-[dotnet]: https://dotnet.microsoft.com/en-us/download/dotnet/7.0
+[dotnet]: https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 [contributing]: CONTRIBUTING.md
 [license]: LICENSE
